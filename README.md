@@ -1,6 +1,7 @@
-### Hi, i'm Felipe Ramalho 👋
+### Hi, i'm Felipe 👋
+Sou um Desenvolvedor Front-End
+- 🌱 Always studying...
 
-- 🌱 Estudando...
 <div align="center">
   <a href="https://github.com/FelipeRLH">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRLH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
