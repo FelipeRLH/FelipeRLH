@@ -1,5 +1,5 @@
 ### Hi, i'm Felipe 👋
-Sou um Desenvolvedor Front-End
+Sou um Desenvolvedor Front-End com foco em React. Aqui você vai encontrar meus projetos, divirta-se em ver minha evolução diária!!
 - 🌱 Always studying...
 
 <div align="center">
