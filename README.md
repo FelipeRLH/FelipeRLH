@@ -1,6 +1,11 @@
-### Hi, i'm Felipe 👋
-Tenho 20 anos e estou estudando front-End com foco em React. Aqui você vai encontrar meus projetos, divirta-se em ver minha evolução diária!!
-- 🌱 Always studying...
+<div>
+  <h1 align="center">Olá Eu sou o <a href="https://www.linkedin.com/in/felipe-ramalho-/"><i>Felipe</i></a> 😃️</h1>
+  <h3 align="center">Tenho 20 anos e sou Desenvolvedor Front-End Jr.
+ <br>
+    <br>
+  <p align="center">Aqui você vai encontrar meus projetos e tecnologias que eu utilizo, divirta-se em ver minha evolução diária!! 😉️</p>
+  <p align="center">🌱 Always studying...<p/>
+</div>
 
 <div align="center">
   <a href="https://github.com/FelipeRLH">
@@ -9,11 +14,12 @@ Tenho 20 anos e estou estudando front-End com foco em React. Aqui você vai enco
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
 </div
   
 <div>
